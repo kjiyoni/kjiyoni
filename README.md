@@ -2,7 +2,7 @@
 Hi there👋 I'm Jiyeon.
 </div><br>
 
-## 👩‍💻 About me
+## 👩‍💻 About Me
 📝풀스택 자바웹개발자 교육 과정 수료(23.4-23.10, 6개월)
  - Mini Project 쇼핑몰 Getbag(7일)
  - Final Project 축구 동호회 팀관리 홈페이지 Go90(1개월)
